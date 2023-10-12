@@ -29,7 +29,7 @@ namespace Ailen_CYOA
             const string pick_spoon = "You pick up a....spoon?";
             const string unlock_door = "You try to unlock the door";
             const string try_escape = "You try to escape";
-            const string defy_narrator = "Give the aliens a big fat hug";
+            const string defy_narrator = "You try to give the aliens a big fat hug";
             const string key = "Key";
             const string map = "Map";
             const string Orb = "Orb";
